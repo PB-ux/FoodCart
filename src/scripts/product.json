@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Чизбургер",
+    "volume": 1,
+    "price": 300,
+    "imgSrc": "cheeseburger.png"
+  },
+  {
+    "id": 2,
+    "title": "Чизбургер",
+    "volume": 1,
+    "price": 300,
+    "imgSrc": "cheeseburger.png"
+  },
+  {
+    "id": 3,
+    "title": "Чизбургер",
+    "volume": 1,
+    "price": 300,
+    "imgSrc": "cheeseburger.png"
+  },
+  {
+    "id": 4,
+    "title": "Чизбургер",
+    "volume": 1,
+    "price": 300,
+    "imgSrc": "cheeseburger.png"
+  }
+]

@@ -1,0 +1,160 @@
+.header {
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+.header__title {
+  font-weight: 700;
+}
+
+.header__subtitle {
+  color: rgba(0, 0, 0, 0.32);
+}
+
+.products-item {
+  margin-bottom: 20px;
+}
+
+.products-item .card-title {
+  font-size: 26px;
+}
+
+.products-item .btn {
+  margin-top: 25px;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+.card-volume {
+  color: #b1b1b1;
+}
+
+.cart-empty {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.cart-wrapper {
+  margin-top: 30px;
+}
+
+.cart-item {
+  border-bottom: 1px solid #cbcbcb;
+  padding-bottom: 20px;
+}
+
+.cart-item__top {
+  margin-top: 25px;
+}
+
+.cart-item__img img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+
+.cart-item__info {
+  margin-left: 23px;
+}
+
+.cart-item__title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.cart-item__volume {
+  color: #a3a3a3;
+  font-size: 16px;
+}
+
+.details {
+  display: flex;
+  margin-top: 8px;
+}
+
+.details__price {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.counter {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  min-width: 140px;
+  min-height: 33px;
+  margin-right: 60px;
+  font-size: 20px;
+}
+
+.counter_small {
+  min-width: 100px;
+  min-height: 20px;
+  margin-right: 16px;
+}
+
+.counter__control {
+  cursor: pointer;
+  user-select: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  transition: background-color 0.3s;
+}
+
+.small_control {
+  padding: 0;
+  width: 30px;
+  text-align: center;
+  padding-bottom: 3px;
+}
+
+.minus {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.plus {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.counter__control:hover {
+  background-color: #dc3545;
+}
+
+.cart-total {
+  margin-top: 16px;
+  font-size: 18px;
+}
+
+.cart-total__delivery {
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.cart-total__price {
+  font-weight: bold;
+}
+
+.cart-total__price span {
+  color: #dc3545;
+}
+
+.cart-form {
+  padding: 15px;
+  border-top: 1px solid #cbcbcb;
+}
+
+.cart-form__title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 13px;
+}
+
+.cart-form__field {
+  margin-bottom: 20px;
+}
